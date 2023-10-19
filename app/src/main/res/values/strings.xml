@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudentMgr</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_failed">Username or password incorrect</string>
+    <string name="add">增加</string>
+    <string name="refresh">刷新</string>
+</resources>
